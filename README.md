@@ -51,7 +51,7 @@
 - **Tech stack**: Python, PyTorch, YOLOv5, CBAM.
 - **Features**: Enhanced detection accuracy, real-time video processing, attention mechanisms.
 
-### 🎵 [Spotify Popularity Predictor](https://github.com/KML-Fig09/spotify-popularity-predictor)
+### 🎵 [Spotify Popularity Predictor](https://github.com/KML-Fig09/Spotify-Song-Predictor)
 - **Description**: Developed a model to predict the popularity of songs on Spotify using regression models and a random forest classifier. This project explores feature engineering and machine learning techniques to derive insights from Spotify's dataset.
 - **Tech stack**: Python, scikit-learn, Random Forest, Regression Models, Pandas.
 - **Features**: Data preprocessing, feature engineering, model evaluation.
