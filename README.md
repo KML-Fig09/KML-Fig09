@@ -79,13 +79,12 @@
 ## 🎙️ Podcast Feature
 
 🎧 **[What is AI?](https://open.spotify.com/show/1SjtWmveSEqdwB6GLzViXt)**  
-![Podcast Icon]([[https://images.squarespace-cdn.com/content/v1/61f3189f93ba763a3f796156/1723536995102-QE4EQSK70SGWYO11E329/marcus+tim%2862%29.png?format=2500w](https://i.scdn.co/image/ab6765630000ba8a65f819afe21e2a668e321c40)])
 
 I was recently featured on the podcast "What is AI?" where I discuss how AI/ML works, implementing AI into modern workflows, and the ethical considerations of doing so. You can listen to the episode [here](https://open.spotify.com/show/1SjtWmveSEqdwB6GLzViXt).
 
 ---
 
-🎯 What I'm Currently Working On
+## 🎯 What I'm Currently Working On
 
 - [ ] Completing the advanced YOLOv5 project with 3D model integration.
 - [ ] Exploring ethical considerations in AI through ongoing research.
