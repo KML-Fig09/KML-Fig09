@@ -46,7 +46,7 @@
 - **Features**: Real-time object detection, 3D model generation, data augmentation.
 - **Will be available on Github after submission and grading, but I'm always happy to chat about it!**
 
-### 🔧 [Object Detection Using YOLOv5 with CBAM](https://github.com/KML-Fig09/peripheral-detection)
+### 🔧 [Object Detection Using YOLOv5 with CBAM](https://github.com/KML-Fig09/YOLOV5-CBAM-Object-Detection)
 - **Description**: Implemented YOLOv5 with a Convolutional Block Attention Module (CBAM) for detecting peripherals in video feeds. This project achieved aesthetically pleasing bounding boxes and was awarded a distinction.
 - **Tech stack**: Python, PyTorch, YOLOv5, CBAM.
 - **Features**: Enhanced detection accuracy, real-time video processing, attention mechanisms.
