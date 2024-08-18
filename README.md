@@ -15,8 +15,7 @@
 - **Libraries**: ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn), ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch), ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow), ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras), ![pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas), ![scipy](https://img.shields.io/badge/-scipy-333333?style=flat&logo=scipy), ![seaborn](https://img.shields.io/badge/-seaborn-333333?style=flat&logo=seaborn), ![matplotlib](https://img.shields.io/badge/-matplotlib-333333?style=flat&logo=matplotlib)
 
 ### Machine Learning Techniques
-- **Expertise in**: Linear Regression, Polynomial Regression, Lasso Regression, Elastic Net, Stochastic Gradient Regressor, Random Forest Classifier
-- **Proficient in**: Feature engineering, Data preprocessing
+- **Proficient in**: Linear Regression, Polynomial Regression, Lasso Regression, Elastic Net, Stochastic Gradient Regressor, Random Forest Classifier, Feature engineering, Data preprocessing
 
 ### Neural Networks
 - **Experience with**: Convolutional Neural Networks (CNNs), Autoencoders, Generative Adversarial Networks (GANs), Transfer Learning
