@@ -1,6 +1,8 @@
 
 # 👋 Hi there, I'm Kim Littler!
-### I learned how to build AI/ML models from scratch in a year, and I'm excited to keep learning more!
+## AI / ML Engineer and Enthusiast 
+### (MSc Artificial Intelligence, with Distinction & School Award for Best Overall GPA, 2024)
+### I learned how to build AI/ML models from scratch in a year in 2023, and I'm excited to keep learning more!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kim-littler/)](https://www.linkedin.com/in/kim-littler/)
 [![GitHub followers](https://img.shields.io/github/followers/KML-Fig09?label=Follow&style=social)](https://github.com/KML-Fig09)
@@ -14,17 +16,17 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - **Libraries**: ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn), ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch), ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow), ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras), ![pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas), ![scipy](https://img.shields.io/badge/-scipy-333333?style=flat&logo=scipy), ![seaborn](https://img.shields.io/badge/-seaborn-333333?style=flat&logo=seaborn), ![matplotlib](https://img.shields.io/badge/-matplotlib-333333?style=flat&logo=matplotlib)
 
-### Machine Learning Techniques
-- **Proficient in**: Linear Regression, Polynomial Regression, Lasso Regression, Elastic Net, Stochastic Gradient Regressor, Random Forest Classifier, Feature engineering, Data preprocessing
-
 ### Neural Networks
 - **Experience with**: Convolutional Neural Networks (CNNs), Autoencoders, Generative Adversarial Networks (GANs), Transfer Learning
 
 ### Computer Vision
-- **Proficient in**: Object Detection (YOLO, basic SSD understanding), Image Segmentation Techniques
+- **Proficient in**: Object Detection (YOLO, basic SSD understanding), Image Segmentation Techniques (SAM), Object Tracking (Norfair, ByteTrack)
+
+### Machine Learning Techniques
+- **Proficient in**: Linear Regression, Polynomial Regression, Lasso Regression, Elastic Net, Stochastic Gradient Regressor, Random Forest Classifier, Feature engineering, Data preprocessing
 
 ### Prompt Engineering
-- **Tools**: ChatGPT, Microsoft CoPilot, RunwayML, Midjourney, DALL-E
+- **Tools**: ChatGPT, Microsoft CoPilot, RunwayML, Claude, Gemini, Midjourney, DALL-E, GROK
 
 ### Dataset Management
 - **Skilled in**: ![Roboflow](https://img.shields.io/badge/-Roboflow-333333?style=flat&logo=roboflow), ![Kaggle](https://img.shields.io/badge/-Kaggle-333333?style=flat&logo=kaggle)
@@ -40,11 +42,11 @@
 
 ## 💼 Projects
 
-### 🚀 [Advanced YOLOv5 Real-Time Object Detection]
-- **Description**: This ongoing project involves training an advanced YOLOv5 model trained on multiple augmented datasets to identify objects in live video and recreate them as 3D models. The project will be deployed as an application, demonstrating advanced computer vision techniques. It is the successor to my previous YOLOv5 project, though the accuracy and techniques used are vastly improved and more complex.
-- **Tech stack**: Python, PyTorch, YOLOv5, Roboflow, matplotlib, DeepSORT, SORT, ByteTrack, 3D modeling tools.
-- **Features**: Real-time object detection, 3D model generation, data augmentation.
-- **Will be available on Github after submission and grading, but I'm always happy to chat about it!**
+### 🚀 [Advanced YOLOv5 Real-Time Object Detection with CBAM Module, Tracking and Segmentation Pipelines]
+- **Description**: Distinction graded final MMaster of Science Project.  involves training an advanced YOLOv5 model trained on 7 combined and augmented datasets to identify objects in Twitch streamer video, segment them using SAM, and track identified objects using Norfair.
+- **Tech stack**: Python, PyTorch, YOLOv5, Roboflow, matplotlib, DeepSORT, SORT, ByteTrack, Norfair, Segment Anything Model.
+- **Features**: YOLOv5 Object detection, data augmentation, data preprocessing, tracking integration, segmentation.
+- **Dataset files too large for github, but all the code to process them is there.** 
 
 ### 🔧 [Object Detection Using YOLOv5 with CBAM](https://github.com/KML-Fig09/YOLOV5-CBAM-Object-Detection)
 - **Description**: Implemented YOLOv5 with a Convolutional Block Attention Module (CBAM) for detecting peripherals in video feeds. This project achieved aesthetically pleasing bounding boxes and was awarded a distinction.
