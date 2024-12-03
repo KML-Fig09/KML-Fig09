@@ -12,9 +12,15 @@
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### Coding Languages
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- **Libraries**: ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn), ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch), ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow), ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras), ![pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas), ![scipy](https://img.shields.io/badge/-scipy-333333?style=flat&logo=scipy), ![seaborn](https://img.shields.io/badge/-seaborn-333333?style=flat&logo=seaborn), ![matplotlib](https://img.shields.io/badge/-matplotlib-333333?style=flat&logo=matplotlib)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+![HTML](https://img.shields.io/badge/-html-333333?style=flat&logo=html)
+![JS](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)
+![CSS](https://img.shields.io/badge/-css-333333?style=flat&logo=css)
+
+### Python Libraries 
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn), ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch), ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow), ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras), ![pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas), ![scipy](https://img.shields.io/badge/-scipy-333333?style=flat&logo=scipy), ![seaborn](https://img.shields.io/badge/-seaborn-333333?style=flat&logo=seaborn), ![matplotlib](https://img.shields.io/badge/-matplotlib-333333?style=flat&logo=matplotlib), ![PIL](https://img.shields.io/badge/-pil-333333?style=flat&logo=pil), ![numpy](https://img.shields.io/badge/-numpy-333333?style=flat&logo=numpy), ![cv2](https://img.shields.io/badge/-cv2-333333?style=flat&logo=cv2), ![norfair](https://img.shields.io/badge/-norfair-333333?style=flat&logo=norfair), ![SAM](https://img.shields.io/badge/-SAM-333333?style=flat&logo=SAM), ![utils](https://img.shields.io/badge/-utils-333333?style=flat&logo=utils)
 
 ### Neural Networks
 - **Experience with**: Convolutional Neural Networks (CNNs), Autoencoders, Generative Adversarial Networks (GANs), Transfer Learning
@@ -29,11 +35,11 @@
 - **Tools**: ChatGPT, Microsoft CoPilot, RunwayML, Claude, Gemini, Midjourney, DALL-E, GROK
 
 ### Dataset Management
-- **Skilled in**: ![Roboflow](https://img.shields.io/badge/-Roboflow-333333?style=flat&logo=roboflow), ![Kaggle](https://img.shields.io/badge/-Kaggle-333333?style=flat&logo=kaggle)
+- **Skilled in**: ![Roboflow](https://img.shields.io/badge/-Roboflow-333333?style=flat&logo=roboflow), ![Kaggle](https://img.shields.io/badge/-Kaggle-333333?style=flat&logo=kaggle), ![Azure](https://img.shields.io/badge/-azure-333333?style=flat&logo=azure), ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 - **Techniques**: Data augmentation, Dataset preparation
 
 ### Collaboration Tools
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git), ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-333333?style=flat&logo=jupyter), ![Google Suite](https://img.shields.io/badge/-Google%20Suite-333333?style=flat&logo=google), ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-333333?style=flat&logo=microsoft-teams), ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-333333?style=flat&logo=microsoft-office), ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva), ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git), ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-333333?style=flat&logo=jupyter), ![Google Suite](https://img.shields.io/badge/-Google%20Suite-333333?style=flat&logo=google), ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-333333?style=flat&logo=microsoft-teams), ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-333333?style=flat&logo=microsoft-office), ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva), ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github), ![Figma](![SQL](https://img.shields.io/badge/-figma-333333?style=flat&logo=figma)
 
 ### Ethical AI
 - **Knowledge of**: Ethical considerations and responsible AI practices, grounded in sociology and law
